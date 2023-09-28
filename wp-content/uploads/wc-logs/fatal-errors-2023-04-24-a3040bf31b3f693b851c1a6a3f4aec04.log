@@ -1,0 +1,84 @@
+2023-04-24T10:55:48+00:00 CRITICAL Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, function "home_slider_section_title_render_callback" not found or invalid function name in /srv/www/edpua/wordpress/wp-includes/customize/class-wp-customize-partial.php:222
+Stack trace:
+#0 /srv/www/edpua/wordpress/wp-includes/customize/class-wp-customize-selective-refresh.php(372): WP_Customize_Partial->render()
+#1 /srv/www/edpua/wordpress/wp-includes/class-wp-hook.php(308): WP_Customize_Selective_Refresh->handle_render_partials_request()
+#2 /srv/www/edpua/wordpress/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#3 /srv/www/edpua/wordpress/wp-includes/plugin.php(517): WP_Hook->do_action()
+#4 /srv/www/edpua/wordpress/wp-includes/template-loader.php(13): do_action()
+#5 /srv/www/edpua/wordpress/wp-blog-header.php(19): require_once('...')
+#6 /srv/www/edpua/wordpress/index.php(17): require('...')
+#7 {main}
+  thrown in /srv/www/edpua/wordpress/wp-includes/customize/class-wp-customize-partial.php on line 222
+
+2023-04-24T10:56:41+00:00 CRITICAL Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, function "home_slider_section_title_render_callback" not found or invalid function name in /srv/www/edpua/wordpress/wp-includes/customize/class-wp-customize-partial.php:222
+Stack trace:
+#0 /srv/www/edpua/wordpress/wp-includes/customize/class-wp-customize-selective-refresh.php(372): WP_Customize_Partial->render()
+#1 /srv/www/edpua/wordpress/wp-includes/class-wp-hook.php(308): WP_Customize_Selective_Refresh->handle_render_partials_request()
+#2 /srv/www/edpua/wordpress/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#3 /srv/www/edpua/wordpress/wp-includes/plugin.php(517): WP_Hook->do_action()
+#4 /srv/www/edpua/wordpress/wp-includes/template-loader.php(13): do_action()
+#5 /srv/www/edpua/wordpress/wp-blog-header.php(19): require_once('...')
+#6 /srv/www/edpua/wordpress/index.php(17): require('...')
+#7 {main}
+  thrown in /srv/www/edpua/wordpress/wp-includes/customize/class-wp-customize-partial.php on line 222
+
+2023-04-24T11:03:11+00:00 CRITICAL Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, function "home_slider_section_title_render_callback" not found or invalid function name in /srv/www/edpua/wordpress/wp-includes/customize/class-wp-customize-partial.php:222
+Stack trace:
+#0 /srv/www/edpua/wordpress/wp-includes/customize/class-wp-customize-selective-refresh.php(369): WP_Customize_Partial->render()
+#1 /srv/www/edpua/wordpress/wp-includes/class-wp-hook.php(308): WP_Customize_Selective_Refresh->handle_render_partials_request()
+#2 /srv/www/edpua/wordpress/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#3 /srv/www/edpua/wordpress/wp-includes/plugin.php(517): WP_Hook->do_action()
+#4 /srv/www/edpua/wordpress/wp-includes/template-loader.php(13): do_action()
+#5 /srv/www/edpua/wordpress/wp-blog-header.php(19): require_once('...')
+#6 /srv/www/edpua/wordpress/index.php(17): require('...')
+#7 {main}
+  thrown in /srv/www/edpua/wordpress/wp-includes/customize/class-wp-customize-partial.php on line 222
+
+2023-04-24T11:03:41+00:00 CRITICAL Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, function "home_slider_section_title_render_callback" not found or invalid function name in /srv/www/edpua/wordpress/wp-includes/customize/class-wp-customize-partial.php:222
+Stack trace:
+#0 /srv/www/edpua/wordpress/wp-includes/customize/class-wp-customize-selective-refresh.php(372): WP_Customize_Partial->render()
+#1 /srv/www/edpua/wordpress/wp-includes/class-wp-hook.php(308): WP_Customize_Selective_Refresh->handle_render_partials_request()
+#2 /srv/www/edpua/wordpress/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#3 /srv/www/edpua/wordpress/wp-includes/plugin.php(517): WP_Hook->do_action()
+#4 /srv/www/edpua/wordpress/wp-includes/template-loader.php(13): do_action()
+#5 /srv/www/edpua/wordpress/wp-blog-header.php(19): require_once('...')
+#6 /srv/www/edpua/wordpress/index.php(17): require('...')
+#7 {main}
+  thrown in /srv/www/edpua/wordpress/wp-includes/customize/class-wp-customize-partial.php on line 222
+
+2023-04-24T11:03:42+00:00 CRITICAL Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, function "home_slider_section_title_render_callback" not found or invalid function name in /srv/www/edpua/wordpress/wp-includes/customize/class-wp-customize-partial.php:222
+Stack trace:
+#0 /srv/www/edpua/wordpress/wp-includes/customize/class-wp-customize-selective-refresh.php(372): WP_Customize_Partial->render()
+#1 /srv/www/edpua/wordpress/wp-includes/class-wp-hook.php(308): WP_Customize_Selective_Refresh->handle_render_partials_request()
+#2 /srv/www/edpua/wordpress/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#3 /srv/www/edpua/wordpress/wp-includes/plugin.php(517): WP_Hook->do_action()
+#4 /srv/www/edpua/wordpress/wp-includes/template-loader.php(13): do_action()
+#5 /srv/www/edpua/wordpress/wp-blog-header.php(19): require_once('...')
+#6 /srv/www/edpua/wordpress/index.php(17): require('...')
+#7 {main}
+  thrown in /srv/www/edpua/wordpress/wp-includes/customize/class-wp-customize-partial.php on line 222
+
+2023-04-24T11:03:46+00:00 CRITICAL Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, function "home_slider_section_title_render_callback" not found or invalid function name in /srv/www/edpua/wordpress/wp-includes/customize/class-wp-customize-partial.php:222
+Stack trace:
+#0 /srv/www/edpua/wordpress/wp-includes/customize/class-wp-customize-selective-refresh.php(372): WP_Customize_Partial->render()
+#1 /srv/www/edpua/wordpress/wp-includes/class-wp-hook.php(308): WP_Customize_Selective_Refresh->handle_render_partials_request()
+#2 /srv/www/edpua/wordpress/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#3 /srv/www/edpua/wordpress/wp-includes/plugin.php(517): WP_Hook->do_action()
+#4 /srv/www/edpua/wordpress/wp-includes/template-loader.php(13): do_action()
+#5 /srv/www/edpua/wordpress/wp-blog-header.php(19): require_once('...')
+#6 /srv/www/edpua/wordpress/index.php(17): require('...')
+#7 {main}
+  thrown in /srv/www/edpua/wordpress/wp-includes/customize/class-wp-customize-partial.php on line 222
+
+2023-04-24T11:03:47+00:00 CRITICAL Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, function "home_slider_section_title_render_callback" not found or invalid function name in /srv/www/edpua/wordpress/wp-includes/customize/class-wp-customize-partial.php:222
+Stack trace:
+#0 /srv/www/edpua/wordpress/wp-includes/customize/class-wp-customize-selective-refresh.php(372): WP_Customize_Partial->render()
+#1 /srv/www/edpua/wordpress/wp-includes/class-wp-hook.php(308): WP_Customize_Selective_Refresh->handle_render_partials_request()
+#2 /srv/www/edpua/wordpress/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#3 /srv/www/edpua/wordpress/wp-includes/plugin.php(517): WP_Hook->do_action()
+#4 /srv/www/edpua/wordpress/wp-includes/template-loader.php(13): do_action()
+#5 /srv/www/edpua/wordpress/wp-blog-header.php(19): require_once('...')
+#6 /srv/www/edpua/wordpress/index.php(17): require('...')
+#7 {main}
+  thrown in /srv/www/edpua/wordpress/wp-includes/customize/class-wp-customize-partial.php on line 222
+

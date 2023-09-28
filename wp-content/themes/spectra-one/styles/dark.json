@@ -1,0 +1,94 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/theme.json",
+  "version": 2,
+  "title": "Dark",
+  "settings": {
+      "color": {
+          "palette": [
+              {
+                  "name": "Primary",
+                  "color": "#9AE6FE",
+                  "slug": "primary"
+              },
+              {
+                  "name": "Secondary",
+                  "color": "#ADEBFF",
+                  "slug": "secondary"
+              },
+              {
+                  "name": "Tertiary",
+                  "color": "#1B222C",
+                  "slug": "tertiary"
+              },
+              {
+                  "name": "Quaternary",
+                  "color": "#1B222C",
+                  "slug": "quaternary"
+              },
+              {
+                  "name": "Heading",
+                  "color": "#FFFFFF",
+                  "slug": "heading"
+              },
+              {
+                  "name": "Body",
+                  "color": "#E5E7EB",
+                  "slug": "body"
+              },
+              {
+                  "name": "Surface",
+                  "color": "#1B222C",
+                  "slug": "surface"
+              },
+              {
+                  "name": "Background",
+                  "color": "#111827",
+                  "slug": "background"
+              },
+              {
+                  "name": "Outline",
+                  "color": "#3E4651",
+                  "slug": "outline"
+              },
+              {
+                  "name": "Neutral",
+                  "color": "#9CA3AF",
+                  "slug": "neutral"
+              },
+              {
+                  "name": "Transparent",
+                  "color": "transparent",
+                  "slug": "transparent"
+              },
+              {
+                  "name": "Current Color",
+                  "color": "currentColor",
+                  "slug": "currentColor"
+              },
+              {
+                  "name": "Inherit",
+                  "color": "inherit",
+                  "slug": "inherit"
+              }
+          ],
+          "duotone": [
+              {
+                  "colors": [
+                      "#9AE6FE",
+                      "#9AE6FE"
+                  ],
+                  "slug": "primary",
+                  "name": "Primary"
+              },
+              {
+                  "colors": [
+                      "#FFFFFF",
+                      "#FFFFFF"
+                  ],
+                  "slug": "secondary",
+                  "name": "Secondary"
+              }
+          ]
+      }
+  }
+}

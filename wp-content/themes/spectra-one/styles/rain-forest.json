@@ -1,0 +1,94 @@
+{
+    "$schema": "https://schemas.wp.org/trunk/theme.json",
+    "version": 2,
+    "title": "Rain Forest",
+    "settings": {
+        "color": {
+            "palette": [
+                {
+                    "name": "Primary",
+                    "color": "#038749",
+                    "slug": "primary"
+                },
+                {
+                    "name": "Secondary",
+                    "color": "#03AA5C",
+                    "slug": "secondary"
+                },
+                {
+                    "name": "Tertiary",
+                    "color": "#F1FBFE",
+                    "slug": "tertiary"
+                },
+                {
+                    "name": "Quaternary",
+                    "color": "#FCFAF2",
+                    "slug": "quaternary"
+                },
+                {
+                    "name": "Heading",
+                    "color": "#1F2937",
+                    "slug": "heading"
+                },
+                {
+                    "name": "Body",
+                    "color": "#4B5563",
+                    "slug": "body"
+                },
+                {
+                    "name": "Surface",
+                    "color": "#F5FAF8",
+                    "slug": "surface"
+                },
+                {
+                    "name": "Background",
+                    "color": "#FFFFFF",
+                    "slug": "background"
+                },
+                {
+                    "name": "Outline",
+                    "color": "#E7EEEB",
+                    "slug": "outline"
+                },
+                {
+                    "name": "Neutral",
+                    "color": "#9CA3AF",
+                    "slug": "neutral"
+                },
+                {
+                    "name": "Transparent",
+                    "color": "transparent",
+                    "slug": "transparent"
+                },
+                {
+                    "name": "Current Color",
+                    "color": "currentColor",
+                    "slug": "currentColor"
+                },
+                {
+                    "name": "Inherit",
+                    "color": "inherit",
+                    "slug": "inherit"
+                }
+            ],
+            "duotone": [
+                {
+                    "colors": [
+                        "#038749",
+                        "#038749"
+                    ],
+                    "slug": "primary",
+                    "name": "Primary"
+                },
+                {
+                    "colors": [
+                        "#1F2937",
+                        "#1F2937"
+                    ],
+                    "slug": "secondary",
+                    "name": "Secondary"
+                }
+            ]
+        }
+    }
+}

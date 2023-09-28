@@ -1,0 +1,1248 @@
+# Copyright (C) 2023 Brainstorm Force
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Spectra One 0.0.4\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/spectra-one\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2023-04-14T11:36:24+02:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.7.1\n"
+"X-Domain: spectra-one\n"
+
+#. Theme Name of the theme
+msgid "Spectra One"
+msgstr ""
+
+#. Description of the theme
+msgid "Spectra One is a beautiful and modern WordPress theme built with the Full Site Editing (FSE) feature. It's a versatile theme that can be used for blogs, portfolios, businesses, and more. Spectra One comes with a sleek and professional design that will make your website stand out from the crowd."
+msgstr ""
+
+#. Author of the theme
+msgid "Brainstorm Force"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://brainstormforce.com/"
+msgstr ""
+
+#: inc/admin/welcome-notice.php:68
+msgid "Close this notice.."
+msgstr ""
+
+#: inc/admin/welcome-notice.php:73
+msgid "Spectra — WordPress Gutenberg Blocks"
+msgstr ""
+
+#: inc/admin/welcome-notice.php:76
+msgid "Page builder that works with the default WordPress editor"
+msgstr ""
+
+#: inc/admin/welcome-notice.php:79
+msgid "Whether you are a beginner, marketer, or professional, Spectra has the tools and resources you can rely on to succeed"
+msgstr ""
+
+#: inc/admin/welcome-notice.php:85
+msgid "Activate Spectra Plugin"
+msgstr ""
+
+#: inc/admin/welcome-notice.php:85
+msgid "Install & Activate Spectra"
+msgstr ""
+
+#: inc/admin/welcome-notice.php:215
+msgid "Activating"
+msgstr ""
+
+#: inc/admin/welcome-notice.php:216
+msgid "Installing"
+msgstr ""
+
+#: inc/admin/welcome-notice.php:217
+msgid "Done"
+msgstr ""
+
+#: inc/block-styles/button.php:22
+msgid "Secondary"
+msgstr ""
+
+#: inc/block-styles/categories.php:22
+msgid "Pill"
+msgstr ""
+
+#: inc/block-styles/search.php:24
+msgid "Minimal"
+msgstr ""
+
+#: inc/block-styles/separator.php:22
+msgid "Wide Thin Line"
+msgstr ""
+
+#: inc/extensions/hide-elements.php:58
+msgid "Disable Header"
+msgstr ""
+
+#: inc/extensions/hide-elements.php:62
+msgid "Disable Footer"
+msgstr ""
+
+#: inc/utilities/helpers.php:253
+msgid " Icon"
+msgstr ""
+
+#: patterns/alternate-image-text.php
+msgctxt "Pattern title"
+msgid "Alternate image text"
+msgstr ""
+
+#: patterns/alternate-image-text.php:21
+msgid "Discover a new way to build website"
+msgstr ""
+
+#: patterns/alternate-image-text.php:24
+msgid "Get online quickly with easy-to-use Full Site Editor builder"
+msgstr ""
+
+#: patterns/alternate-image-text.php:36
+msgid "01"
+msgstr ""
+
+#: patterns/alternate-image-text.php:39
+msgid "Visual editing experience"
+msgstr ""
+
+#: patterns/alternate-image-text.php:42
+msgid "Customize the entire website layout, including the header, footer, and all other template parts. With FSE, we can create and edit templates for their entire website, including single posts, archive pages, and custom post types."
+msgstr ""
+
+#: patterns/alternate-image-text.php:45
+#: patterns/alternate-image-text.php:63
+#: patterns/alternate-image-text.php:91
+#: patterns/footer-five-columns-menu-inline.php:106
+#: patterns/footer-six-columns-menu-separated.php:96
+#: patterns/hero-banner.php:40
+#: patterns/split-image-right.php:29
+msgid "Learn More"
+msgstr ""
+
+#: patterns/alternate-image-text.php:54
+msgid "02"
+msgstr ""
+
+#: patterns/alternate-image-text.php:57
+msgid "Innovative block patterns"
+msgstr ""
+
+#: patterns/alternate-image-text.php:60
+msgid "Block patterns are pre-designed block layouts that we can easily insert into their content. These patterns can help to save time and create visually appealing designs. Allows us to create custom themes using the block-based template."
+msgstr ""
+
+#: patterns/alternate-image-text.php:82
+msgid "03"
+msgstr ""
+
+#: patterns/alternate-image-text.php:85
+msgid "Beautiful global styles"
+msgstr ""
+
+#: patterns/alternate-image-text.php:88
+msgid "Global styles enable us to create and apply consistent design elements across the entire website, including typography, colors, and spacing. Providing us with more control over our website's look and feel."
+msgstr ""
+
+#: patterns/blog-classic.php
+msgctxt "Pattern title"
+msgid "Blog classic"
+msgstr ""
+
+#: patterns/blog-classic.php:13
+#: patterns/blog-grid.php:13
+#: patterns/blog-left-featured-image.php:13
+#: patterns/blog-simple.php:13
+#: patterns/template-index.php:14
+msgid "Latest Posts"
+msgstr ""
+
+#: patterns/blog-classic.php:33
+msgid "Read More"
+msgstr ""
+
+#: patterns/blog-grid.php
+msgctxt "Pattern title"
+msgid "Blog grid"
+msgstr ""
+
+#: patterns/blog-left-featured-image.php
+msgctxt "Pattern title"
+msgid "Blog left featured image"
+msgstr ""
+
+#: patterns/blog-simple.php
+msgctxt "Pattern title"
+msgid "Blog simple"
+msgstr ""
+
+#: patterns/faq.php
+msgctxt "Pattern title"
+msgid "FAQ"
+msgstr ""
+
+#: patterns/faq.php:12
+msgid "Frequently Asked Questions"
+msgstr ""
+
+#: patterns/faq.php:17
+msgid "What is Full Site Editing?"
+msgstr ""
+
+#: patterns/faq.php:21
+msgid "Full Site Editing (FSE) is a feature in WordPress that allows users to visually design and customize their entire website, including the header, footer, and other template parts."
+msgstr ""
+
+#: patterns/faq.php:31
+msgid "What are some benefits of using Full Site Editing?"
+msgstr ""
+
+#: patterns/faq.php:35
+msgid "Full Site Editing provides a more user-friendly, streamlined approach to website design and customization. It allows users to see changes in real-time, provides more control over design elements, and enables developers to create more custom blocks and templates."
+msgstr ""
+
+#: patterns/faq.php:45
+msgid "Can I use Full Site Editing on my existing WordPress website?"
+msgstr ""
+
+#: patterns/faq.php:49
+msgid "Yes, you can use Full Site Editing on an existing WordPress website by installing a compatible theme that supports the feature."
+msgstr ""
+
+#: patterns/faq.php:59
+msgid "Do I need to know how to code to use Full Site Editing?"
+msgstr ""
+
+#: patterns/faq.php:63
+msgid "No, Full Site Editing does not require knowledge of coding or web development. The drag-and-drop interface and pre-designed templates make it easy for users to create a professional-looking website without any coding experience."
+msgstr ""
+
+#: patterns/featured-logos.php
+msgctxt "Pattern title"
+msgid "Featured logos"
+msgstr ""
+
+#: patterns/featured-logos.php:24
+msgid "Brought to you by the creators of"
+msgstr ""
+
+#: patterns/footer-five-columns-menu-inline.php
+msgctxt "Pattern title"
+msgid "Footer five columns menu inline"
+msgstr ""
+
+#: patterns/footer-five-columns-menu-inline.php:24
+#: patterns/footer-six-columns-menu-separated.php:38
+#: patterns/footer.php:38
+msgid "Products"
+msgstr ""
+
+#: patterns/footer-five-columns-menu-inline.php:28
+#: patterns/footer-six-columns-menu-separated.php:41
+#: patterns/footer.php:42
+msgid "Products List"
+msgstr ""
+
+#: patterns/footer-five-columns-menu-inline.php:30
+#: patterns/footer.php:44
+msgid "Plans \\u0026amp; Pricing"
+msgstr ""
+
+#: patterns/footer-five-columns-menu-inline.php:32
+#: patterns/footer-six-columns-menu-separated.php:43
+#: patterns/footer.php:46
+msgid "Services"
+msgstr ""
+
+#: patterns/footer-five-columns-menu-inline.php:34
+#: patterns/footer-six-columns-menu-separated.php:44
+#: patterns/footer.php:48
+msgid "Partners"
+msgstr ""
+
+#: patterns/footer-five-columns-menu-inline.php:44
+#: patterns/footer-six-columns-menu-separated.php:49
+msgid "Company"
+msgstr ""
+
+#: patterns/footer-five-columns-menu-inline.php:48
+#: patterns/footer-six-columns-menu-separated.php:52
+#: patterns/footer.php:58
+msgid "About Us"
+msgstr ""
+
+#: patterns/footer-five-columns-menu-inline.php:50
+#: patterns/footer-six-columns-menu-separated.php:53
+#: patterns/footer.php:60
+msgid "News"
+msgstr ""
+
+#: patterns/footer-five-columns-menu-inline.php:52
+#: patterns/footer-six-columns-menu-separated.php:54
+#: patterns/footer.php:62
+msgid "Contact Us"
+msgstr ""
+
+#: patterns/footer-five-columns-menu-inline.php:54
+#: patterns/footer-six-columns-menu-separated.php:55
+#: patterns/footer.php:64
+msgid "Meet Our Team"
+msgstr ""
+
+#: patterns/footer-five-columns-menu-inline.php:60
+#: patterns/footer-six-columns-menu-separated.php:75
+#: patterns/footer.php:74
+msgid "Resources"
+msgstr ""
+
+#: patterns/footer-five-columns-menu-inline.php:64
+#: patterns/footer-six-columns-menu-separated.php:67
+#: patterns/footer.php:78
+msgid "Gallery"
+msgstr ""
+
+#: patterns/footer-five-columns-menu-inline.php:66
+#: patterns/footer-six-columns-menu-separated.php:68
+#: patterns/footer.php:80
+msgid "Blog Articles"
+msgstr ""
+
+#: patterns/footer-five-columns-menu-inline.php:68
+#: patterns/footer-six-columns-menu-separated.php:69
+#: patterns/footer.php:82
+msgid "Brand Assets"
+msgstr ""
+
+#: patterns/footer-five-columns-menu-inline.php:70
+#: patterns/footer-six-columns-menu-separated.php:70
+#: patterns/footer.php:84
+msgid "Brand Guidelines"
+msgstr ""
+
+#: patterns/footer-five-columns-menu-inline.php:80
+#: patterns/footer-six-columns-menu-separated.php:64
+#: patterns/footer.php:90
+msgid "Support"
+msgstr ""
+
+#: patterns/footer-five-columns-menu-inline.php:84
+#: patterns/footer-six-columns-menu-separated.php:78
+#: patterns/footer.php:94
+msgid "Knowledge Base"
+msgstr ""
+
+#: patterns/footer-five-columns-menu-inline.php:86
+#: patterns/footer-six-columns-menu-separated.php:79
+#: patterns/footer.php:96
+msgid "Contact Support"
+msgstr ""
+
+#: patterns/footer-five-columns-menu-inline.php:88
+#: patterns/footer-six-columns-menu-separated.php:80
+#: patterns/footer-six-columns-menu-separated.php:125
+#: patterns/footer.php:98
+msgid "Privacy Policy"
+msgstr ""
+
+#: patterns/footer-five-columns-menu-inline.php:90
+#: patterns/footer-six-columns-menu-separated.php:81
+#: patterns/footer.php:100
+msgid "TOS"
+msgstr ""
+
+#: patterns/footer-five-columns-menu-inline.php:96
+msgid "Need help?"
+msgstr ""
+
+#: patterns/footer-five-columns-menu-inline.php:100
+#: patterns/footer-six-columns-menu-separated.php:93
+msgid "What’s New"
+msgstr ""
+
+#: patterns/footer-five-columns-menu-inline.php:102
+#: patterns/footer-six-columns-menu-separated.php:94
+msgid "How to Videos"
+msgstr ""
+
+#: patterns/footer-five-columns-menu-inline.php:104
+#: patterns/footer-six-columns-menu-separated.php:95
+msgid "Ask the Community"
+msgstr ""
+
+#: patterns/footer-five-columns-menu-inline.php:120
+#: patterns/footer-minimal-menu-center.php:52
+#: patterns/footer-minimal-menu-right.php:39
+#: patterns/footer-six-columns-menu-separated.php:116
+#: patterns/footer.php:109
+msgid "© %d ·"
+msgstr ""
+
+#: patterns/footer-five-columns-menu-inline.php:126
+#: patterns/footer-six-columns-menu-separated.php:120
+#: patterns/footer.php:115
+msgid "· All rights reserved"
+msgstr ""
+
+#: patterns/footer-minimal-menu-center.php
+msgctxt "Pattern title"
+msgid "Footer minimal menu center"
+msgstr ""
+
+#: patterns/footer-minimal-menu-center.php:24
+#: patterns/footer-minimal-menu-right.php:23
+#: patterns/footer-six-columns-menu-separated.php:17
+#: patterns/header-center-menu.php:16
+#: patterns/header-left-menu.php:17
+#: patterns/header-left-menu.php:29
+#: patterns/header.php:17
+msgid "Home"
+msgstr ""
+
+#: patterns/footer-minimal-menu-center.php:26
+#: patterns/footer-minimal-menu-right.php:25
+#: patterns/footer-six-columns-menu-separated.php:18
+#: patterns/header-center-menu.php:17
+#: patterns/header-left-menu.php:18
+#: patterns/header-left-menu.php:30
+#: patterns/header.php:18
+msgid "About"
+msgstr ""
+
+#: patterns/footer-minimal-menu-center.php:28
+#: patterns/footer-minimal-menu-right.php:27
+#: patterns/footer-six-columns-menu-separated.php:19
+#: patterns/header-center-menu.php:18
+#: patterns/header-left-menu.php:19
+#: patterns/header-left-menu.php:31
+#: patterns/header.php:19
+msgid "Blog"
+msgstr ""
+
+#: patterns/footer-minimal-menu-center.php:30
+#: patterns/footer-minimal-menu-right.php:29
+#: patterns/footer-six-columns-menu-separated.php:20
+#: patterns/header-center-menu.php:19
+#: patterns/header-left-menu.php:20
+#: patterns/header-left-menu.php:32
+#: patterns/header.php:20
+msgid "Contact"
+msgstr ""
+
+#: patterns/footer-minimal-menu-center.php:62
+msgid "Privacy"
+msgstr ""
+
+#: patterns/footer-minimal-menu-center.php:66
+#: patterns/footer-six-columns-menu-separated.php:128
+msgid "·"
+msgstr ""
+
+#: patterns/footer-minimal-menu-center.php:70
+msgid "Terms"
+msgstr ""
+
+#: patterns/footer-minimal-menu-right.php
+msgctxt "Pattern title"
+msgid "Footer minimal menu right"
+msgstr ""
+
+#: patterns/footer-six-columns-menu-separated.php
+msgctxt "Pattern title"
+msgid "Footer six columns menu separated"
+msgstr ""
+
+#: patterns/footer-six-columns-menu-separated.php:42
+msgid "Plans \\u0026amp"
+msgstr ""
+
+#: patterns/footer-six-columns-menu-separated.php:90
+msgid "Need Help?"
+msgstr ""
+
+#: patterns/footer-six-columns-menu-separated.php:101
+msgid "Get in touch"
+msgstr ""
+
+#: patterns/footer-six-columns-menu-separated.php:104
+msgid "Book A Meeting"
+msgstr ""
+
+#: patterns/footer-six-columns-menu-separated.php:105
+msgid "Get Quote"
+msgstr ""
+
+#: patterns/footer-six-columns-menu-separated.php:106
+msgid "Ask Product Details"
+msgstr ""
+
+#: patterns/footer-six-columns-menu-separated.php:107
+msgid "Service Inquiry"
+msgstr ""
+
+#: patterns/footer-six-columns-menu-separated.php:131
+msgid "Terms and Conditions"
+msgstr ""
+
+#: patterns/footer.php
+msgctxt "Pattern title"
+msgid "Footer default"
+msgstr ""
+
+#: patterns/footer.php:20
+msgid "Nisl libero ullamcorper id ipsum viverra mauris non pellentesque placerat lorem lacinia sagittis non pretium."
+msgstr ""
+
+#: patterns/header-center-menu.php
+msgctxt "Pattern title"
+msgid "Header center menu"
+msgstr ""
+
+#: patterns/header-center-menu.php:23
+#: patterns/header-left-menu.php:25
+#: patterns/header.php:24
+#: patterns/hero-banner.php:36
+#: patterns/wide-banner-with-button.php:28
+msgid "Get Started"
+msgstr ""
+
+#: patterns/header-left-menu.php
+msgctxt "Pattern title"
+msgid "Header left menu"
+msgstr ""
+
+#: patterns/header.php
+msgctxt "Pattern title"
+msgid "Header default"
+msgstr ""
+
+#: patterns/hero-banner.php
+msgctxt "Pattern title"
+msgid "Hero banner"
+msgstr ""
+
+#: patterns/hero-banner.php:23
+msgid "New experience"
+msgstr ""
+
+#: patterns/hero-banner.php:27
+msgid "Build your website"
+msgstr ""
+
+#: patterns/hero-banner.php:31
+msgid "Create a functional and visually appealing website without having to write code."
+msgstr ""
+
+#: patterns/post-grid.php
+msgctxt "Pattern title"
+msgid "Post grid"
+msgstr ""
+
+#: patterns/post-grid.php:12
+msgid "Latest from The Blog"
+msgstr ""
+
+#: patterns/split-image-right.php
+msgctxt "Pattern title"
+msgid "Split image right"
+msgstr ""
+
+#: patterns/split-image-right.php:21
+msgid "Everything you need to create amazing websites"
+msgstr ""
+
+#: patterns/split-image-right.php:24
+msgid "Interactive design tools and its many customization options to customize anything and everything needed to build the fully-functional website of your dreams."
+msgstr ""
+
+#: patterns/template-404.php
+msgctxt "Pattern title"
+msgid "Template 404"
+msgstr ""
+
+#: patterns/template-404.php:13
+msgid "Error 404"
+msgstr ""
+
+#: patterns/template-404.php:19
+msgid "Unfortunately, this page doesn't exist."
+msgstr ""
+
+#: patterns/template-404.php:19
+msgid "Maybe try a search?"
+msgstr ""
+
+#: patterns/template-404.php:22
+#: patterns/template-search.php:36
+msgid "Search"
+msgstr ""
+
+#: patterns/template-404.php:22
+msgid "Search..."
+msgstr ""
+
+#: patterns/template-archive.php
+msgctxt "Pattern title"
+msgid "Template Archive"
+msgstr ""
+
+#: patterns/template-index.php
+msgctxt "Pattern title"
+msgid "Template index"
+msgstr ""
+
+#: patterns/template-index.php:44
+msgid "Sorry, there's nothing to show here."
+msgstr ""
+
+#: patterns/template-index.php:49
+msgid "Go back to homepage"
+msgstr ""
+
+#: patterns/template-page.php
+msgctxt "Pattern title"
+msgid "Template page"
+msgstr ""
+
+#: patterns/template-search.php
+msgctxt "Pattern title"
+msgid "Template search"
+msgstr ""
+
+#: patterns/template-search.php:34
+msgid "Sorry, but nothing matched your search terms."
+msgstr ""
+
+#: patterns/template-search.php:34
+msgid "Try another search?"
+msgstr ""
+
+#: patterns/template-single.php
+msgctxt "Pattern title"
+msgid "Template single"
+msgstr ""
+
+#: patterns/testimonials.php
+msgctxt "Pattern title"
+msgid "Testimonial"
+msgstr ""
+
+#: patterns/testimonials.php:20
+msgid "See what people have to say about us"
+msgstr ""
+
+#: patterns/testimonials.php:31
+msgid "Leslie Alexander"
+msgstr ""
+
+#: patterns/testimonials.php:34
+msgid "Web designer"
+msgstr ""
+
+#: patterns/testimonials.php:39
+msgid "Highly recommended!"
+msgstr ""
+
+#: patterns/testimonials.php:42
+msgid "This theme made the process of building my website a breeze. The drag-and-drop interface was easy to use and the templates were customizable."
+msgstr ""
+
+#: patterns/testimonials.php:54
+msgid "Jacob Jones"
+msgstr ""
+
+#: patterns/testimonials.php:57
+msgid "Freelancer"
+msgstr ""
+
+#: patterns/testimonials.php:62
+msgid "Endless customization"
+msgstr ""
+
+#: patterns/testimonials.php:65
+msgid "Endless customization options and responsive design, plus great customer support. Highly recommend!"
+msgstr ""
+
+#: patterns/testimonials.php:77
+msgid "Darlene Robertson"
+msgstr ""
+
+#: patterns/testimonials.php:80
+msgid "Business owner"
+msgstr ""
+
+#: patterns/testimonials.php:85
+msgid "Easy to use"
+msgstr ""
+
+#: patterns/testimonials.php:88
+msgid "As a small business owner, I needed a website that was affordable. I was able to create a beautiful website that represented my brand."
+msgstr ""
+
+#: patterns/three-column-featured.php
+msgctxt "Pattern title"
+msgid "Three column featured"
+msgstr ""
+
+#: patterns/three-column-featured.php:27
+msgid "Easily Customizable"
+msgstr ""
+
+#: patterns/three-column-featured.php:31
+msgid "Tailor your website to your liking with endless options to personalize the design and functionality."
+msgstr ""
+
+#: patterns/three-column-featured.php:41
+msgid "Blazing Fast"
+msgstr ""
+
+#: patterns/three-column-featured.php:45
+msgid "Experience lightning-fast page load speeds for optimal user experience and SEO ranking."
+msgstr ""
+
+#: patterns/three-column-featured.php:55
+msgid "SEO Optimized"
+msgstr ""
+
+#: patterns/three-column-featured.php:59
+msgid "Built with search engines in mind, achieve higher rankings and more traffic with optimized code."
+msgstr ""
+
+#: patterns/wide-banner-with-button.php
+msgctxt "Pattern title"
+msgid "Wide banner with button"
+msgstr ""
+
+#: patterns/wide-banner-with-button.php:21
+msgid "Build your own website"
+msgstr ""
+
+#: patterns/wide-banner-with-button.php:24
+msgid "Take your website to the next level!"
+msgstr ""
+
+#: assets/js/editor.js:1
+#: build/editor.js:59
+#: src/block-extensions/header.js:37
+#: build/editor.js:39
+msgid "Enable Sticky Header"
+msgstr ""
+
+#: assets/js/editor.js:1
+#: build/editor.js:60
+#: src/block-extensions/header.js:40
+#: build/editor.js:42
+msgid "Transparent header option will be disabled on enabling this option."
+msgstr ""
+
+#: assets/js/editor.js:1
+#: build/editor.js:68
+#: src/block-extensions/header.js:63
+#: build/editor.js:65
+msgid "Enable Transparent Header"
+msgstr ""
+
+#: assets/js/editor.js:1
+#: build/editor.js:69
+#: src/block-extensions/header.js:66
+#: build/editor.js:68
+msgid "Sticky header option will be disabled on enabling this option."
+msgstr ""
+
+#: assets/js/editor.js:1
+#: build/editor.js:394
+#: src/extensions/page-settings/settings-list.js:32
+#: build/editor.js:413
+msgid "Disable Elements"
+msgstr ""
+
+#: assets/js/editor.js:1
+#: build/editor.js:398
+#: src/extensions/page-settings/settings-list.js:40
+#: build/editor.js:421
+msgid "Header Settings"
+msgstr ""
+
+#: assets/js/editor.js:1
+#: build/editor.js:441
+#: build/editor.js:445
+#: src/extensions/page-settings/settings.js:21
+#: src/extensions/page-settings/settings.js:29
+#: build/editor.js:453
+#: build/editor.js:461
+msgid "Spectra Page Settings"
+msgstr ""
+
+#: assets/js/editor.js:1
+#: build/editor.js:164
+#: src/block-extensions/responsive.js:36
+#: build/editor.js:190
+msgid "Hide Desktop"
+msgstr ""
+
+#: assets/js/editor.js:1
+#: build/editor.js:170
+#: src/block-extensions/responsive.js:48
+#: build/editor.js:202
+msgid "Hide Tablet"
+msgstr ""
+
+#: assets/js/editor.js:1
+#: build/editor.js:176
+#: src/block-extensions/responsive.js:59
+#: build/editor.js:213
+msgid "Hide Mobile"
+msgstr ""
+
+#: styles/aquamarine.json
+msgctxt "Style variation name"
+msgid "Aquamarine"
+msgstr ""
+
+#: styles/aquamarine.json
+#: styles/coral-red.json
+#: styles/dark.json
+#: styles/easter-green.json
+#: styles/french-beige.json
+#: styles/lavender.json
+#: styles/light-violet.json
+#: styles/lime-yellow.json
+#: styles/mango.json
+#: styles/persian-pink.json
+#: styles/rain-forest.json
+#: styles/sweet-corn.json
+#: styles/ultra-marine.json
+#: styles/viridian.json
+#: theme.json
+msgctxt "Color name"
+msgid "Primary"
+msgstr ""
+
+#: styles/aquamarine.json
+#: styles/coral-red.json
+#: styles/dark.json
+#: styles/easter-green.json
+#: styles/french-beige.json
+#: styles/lavender.json
+#: styles/light-violet.json
+#: styles/lime-yellow.json
+#: styles/mango.json
+#: styles/persian-pink.json
+#: styles/rain-forest.json
+#: styles/sweet-corn.json
+#: styles/ultra-marine.json
+#: styles/viridian.json
+#: theme.json
+msgctxt "Color name"
+msgid "Secondary"
+msgstr ""
+
+#: styles/aquamarine.json
+#: styles/coral-red.json
+#: styles/dark.json
+#: styles/easter-green.json
+#: styles/french-beige.json
+#: styles/lavender.json
+#: styles/light-violet.json
+#: styles/lime-yellow.json
+#: styles/mango.json
+#: styles/persian-pink.json
+#: styles/rain-forest.json
+#: styles/sweet-corn.json
+#: styles/ultra-marine.json
+#: styles/viridian.json
+#: theme.json
+msgctxt "Color name"
+msgid "Tertiary"
+msgstr ""
+
+#: styles/aquamarine.json
+#: styles/coral-red.json
+#: styles/dark.json
+#: styles/easter-green.json
+#: styles/french-beige.json
+#: styles/lavender.json
+#: styles/light-violet.json
+#: styles/lime-yellow.json
+#: styles/mango.json
+#: styles/persian-pink.json
+#: styles/rain-forest.json
+#: styles/sweet-corn.json
+#: styles/ultra-marine.json
+#: styles/viridian.json
+#: theme.json
+msgctxt "Color name"
+msgid "Quaternary"
+msgstr ""
+
+#: styles/aquamarine.json
+#: styles/coral-red.json
+#: styles/dark.json
+#: styles/easter-green.json
+#: styles/french-beige.json
+#: styles/lavender.json
+#: styles/light-violet.json
+#: styles/lime-yellow.json
+#: styles/mango.json
+#: styles/persian-pink.json
+#: styles/rain-forest.json
+#: styles/sweet-corn.json
+#: styles/ultra-marine.json
+#: styles/viridian.json
+#: theme.json
+msgctxt "Color name"
+msgid "Heading"
+msgstr ""
+
+#: styles/aquamarine.json
+#: styles/coral-red.json
+#: styles/dark.json
+#: styles/easter-green.json
+#: styles/french-beige.json
+#: styles/lavender.json
+#: styles/light-violet.json
+#: styles/lime-yellow.json
+#: styles/mango.json
+#: styles/persian-pink.json
+#: styles/rain-forest.json
+#: styles/sweet-corn.json
+#: styles/ultra-marine.json
+#: styles/viridian.json
+#: theme.json
+msgctxt "Color name"
+msgid "Body"
+msgstr ""
+
+#: styles/aquamarine.json
+#: styles/coral-red.json
+#: styles/dark.json
+#: styles/easter-green.json
+#: styles/french-beige.json
+#: styles/lavender.json
+#: styles/light-violet.json
+#: styles/lime-yellow.json
+#: styles/mango.json
+#: styles/persian-pink.json
+#: styles/rain-forest.json
+#: styles/sweet-corn.json
+#: styles/ultra-marine.json
+#: styles/viridian.json
+#: theme.json
+msgctxt "Color name"
+msgid "Surface"
+msgstr ""
+
+#: styles/aquamarine.json
+#: styles/coral-red.json
+#: styles/dark.json
+#: styles/easter-green.json
+#: styles/french-beige.json
+#: styles/lavender.json
+#: styles/light-violet.json
+#: styles/lime-yellow.json
+#: styles/mango.json
+#: styles/persian-pink.json
+#: styles/rain-forest.json
+#: styles/sweet-corn.json
+#: styles/ultra-marine.json
+#: styles/viridian.json
+#: theme.json
+msgctxt "Color name"
+msgid "Background"
+msgstr ""
+
+#: styles/aquamarine.json
+#: styles/coral-red.json
+#: styles/dark.json
+#: styles/easter-green.json
+#: styles/french-beige.json
+#: styles/lavender.json
+#: styles/light-violet.json
+#: styles/lime-yellow.json
+#: styles/mango.json
+#: styles/persian-pink.json
+#: styles/rain-forest.json
+#: styles/sweet-corn.json
+#: styles/ultra-marine.json
+#: styles/viridian.json
+#: theme.json
+msgctxt "Color name"
+msgid "Outline"
+msgstr ""
+
+#: styles/aquamarine.json
+#: styles/coral-red.json
+#: styles/dark.json
+#: styles/easter-green.json
+#: styles/french-beige.json
+#: styles/lavender.json
+#: styles/light-violet.json
+#: styles/lime-yellow.json
+#: styles/mango.json
+#: styles/persian-pink.json
+#: styles/rain-forest.json
+#: styles/sweet-corn.json
+#: styles/ultra-marine.json
+#: styles/viridian.json
+#: theme.json
+msgctxt "Color name"
+msgid "Neutral"
+msgstr ""
+
+#: styles/aquamarine.json
+#: styles/coral-red.json
+#: styles/dark.json
+#: styles/easter-green.json
+#: styles/french-beige.json
+#: styles/lavender.json
+#: styles/light-violet.json
+#: styles/lime-yellow.json
+#: styles/mango.json
+#: styles/persian-pink.json
+#: styles/rain-forest.json
+#: styles/sweet-corn.json
+#: styles/ultra-marine.json
+#: styles/viridian.json
+#: theme.json
+msgctxt "Color name"
+msgid "Transparent"
+msgstr ""
+
+#: styles/aquamarine.json
+#: styles/coral-red.json
+#: styles/dark.json
+#: styles/easter-green.json
+#: styles/french-beige.json
+#: styles/lavender.json
+#: styles/light-violet.json
+#: styles/lime-yellow.json
+#: styles/mango.json
+#: styles/persian-pink.json
+#: styles/rain-forest.json
+#: styles/sweet-corn.json
+#: styles/ultra-marine.json
+#: styles/viridian.json
+#: theme.json
+msgctxt "Color name"
+msgid "Current Color"
+msgstr ""
+
+#: styles/aquamarine.json
+#: styles/coral-red.json
+#: styles/dark.json
+#: styles/easter-green.json
+#: styles/french-beige.json
+#: styles/lavender.json
+#: styles/light-violet.json
+#: styles/lime-yellow.json
+#: styles/mango.json
+#: styles/persian-pink.json
+#: styles/rain-forest.json
+#: styles/sweet-corn.json
+#: styles/ultra-marine.json
+#: styles/viridian.json
+#: theme.json
+msgctxt "Color name"
+msgid "Inherit"
+msgstr ""
+
+#: styles/aquamarine.json
+#: styles/coral-red.json
+#: styles/dark.json
+#: styles/easter-green.json
+#: styles/french-beige.json
+#: styles/lavender.json
+#: styles/light-violet.json
+#: styles/lime-yellow.json
+#: styles/mango.json
+#: styles/persian-pink.json
+#: styles/rain-forest.json
+#: styles/sweet-corn.json
+#: styles/ultra-marine.json
+#: styles/viridian.json
+#: theme.json
+msgctxt "Duotone name"
+msgid "Primary"
+msgstr ""
+
+#: styles/aquamarine.json
+#: styles/coral-red.json
+#: styles/dark.json
+#: styles/easter-green.json
+#: styles/french-beige.json
+#: styles/lavender.json
+#: styles/light-violet.json
+#: styles/lime-yellow.json
+#: styles/mango.json
+#: styles/persian-pink.json
+#: styles/rain-forest.json
+#: styles/sweet-corn.json
+#: styles/ultra-marine.json
+#: styles/viridian.json
+#: theme.json
+msgctxt "Duotone name"
+msgid "Secondary"
+msgstr ""
+
+#: styles/coral-red.json
+msgctxt "Style variation name"
+msgid "Coral Red"
+msgstr ""
+
+#: styles/dark.json
+msgctxt "Style variation name"
+msgid "Dark"
+msgstr ""
+
+#: styles/easter-green.json
+msgctxt "Style variation name"
+msgid "Easter Green"
+msgstr ""
+
+#: styles/french-beige.json
+msgctxt "Style variation name"
+msgid "French Beige"
+msgstr ""
+
+#: styles/lavender.json
+msgctxt "Style variation name"
+msgid "Lavender"
+msgstr ""
+
+#: styles/light-violet.json
+msgctxt "Style variation name"
+msgid "Light violet"
+msgstr ""
+
+#: styles/lime-yellow.json
+msgctxt "Style variation name"
+msgid "Lime Yellow"
+msgstr ""
+
+#: styles/mango.json
+msgctxt "Style variation name"
+msgid "Mango"
+msgstr ""
+
+#: styles/persian-pink.json
+msgctxt "Style variation name"
+msgid "Persian Pink"
+msgstr ""
+
+#: styles/rain-forest.json
+msgctxt "Style variation name"
+msgid "Rain Forest"
+msgstr ""
+
+#: styles/sweet-corn.json
+msgctxt "Style variation name"
+msgid "Sweet Corn"
+msgstr ""
+
+#: styles/ultra-marine.json
+msgctxt "Style variation name"
+msgid "Ultra Marine"
+msgstr ""
+
+#: styles/viridian.json
+msgctxt "Style variation name"
+msgid "Viridian"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "XX Small"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "X Small"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "Small"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "Medium"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "Large"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "X Large"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "XX Large"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Inter"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "X Small"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Small"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Medium"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Large"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "X Large"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "XX Large"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "XXX Large"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "XXXX Large"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Footer"
+msgstr ""
